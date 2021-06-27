@@ -1,3 +1,3 @@
-# Python project
-# Face Detection using OpenCV
-Created by Akash Yadav, Raunak Kumar Pandey , Sushil Kumar gupta
+# Face Detection
+## This project is done using OpenCV.
+### Group Members :  Akash Yadav, Raunak Kumar Pandey , Sushil Kumar gupta
