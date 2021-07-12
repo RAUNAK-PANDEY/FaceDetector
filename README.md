@@ -1,3 +1,3 @@
 # Face Detection
-## This project is done using OpenCV.
+## This project is made using OpenCV.
 ### Group Members :  Akash Yadav, Raunak Pandey , Sushil Gupta
